@@ -1,7 +1,7 @@
 # DjTaha
 
 
-![cat image](https://github.com/tahahamdii/ShoppingCart/blob/main/party.png)
+![cat image](https://github.com/tahahamdii/DjTaha/blob/main/party.png)
 
 # Description : 
 
