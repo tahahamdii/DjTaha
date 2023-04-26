@@ -5,7 +5,8 @@
 
 # Description : 
 
-You can change the playsound function with this to keep it playing everytime you keydown xd
+You can change the playsound function with this to keep it playing everytime you keydown 
+also you can change the count as you like but be careful you might damage your ears lol 
 ```
 function playSound(e) {
   const audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
